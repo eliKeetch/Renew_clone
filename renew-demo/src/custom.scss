@@ -1,0 +1,11 @@
+@import '~bootstrap/scss/bootstrap.scss';
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.nav-background{
+    background-color: gray;
+    color: black;
+}
+.nav-display li{
+    display:  inline-block;
+    
+}

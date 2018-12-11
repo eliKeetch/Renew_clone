@@ -1,0 +1,31 @@
+
+body {
+  padding-top: 54px;
+}
+.logo-img{
+ 
+
+  height: 7.5vh;
+  max-height: 40px;
+  min-height: 35px;
+  
+}
+.img-fluid-custom{
+  width: 100%;
+  
+}
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+}
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
